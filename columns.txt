@@ -1,0 +1,4 @@
+first:last:hero:email
+clark:kent:superman:iamsuperman@justiceleague.com
+bruce:wayne:batman:iambatmane@justiceleague.com
+barry:allen:flash:zippy@justiceleague.com
