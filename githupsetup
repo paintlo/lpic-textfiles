@@ -1,0 +1,3 @@
+##
+#where you have cloned repo enter
+git config --global push.default matching

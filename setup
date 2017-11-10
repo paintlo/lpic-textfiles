@@ -1,0 +1,7 @@
+use ansible to chg linux academy servers
+
+update /etc/ssh/sshd_config
+ClientAliveInterval 120
+ClientAliveCountMax 30
+
+
